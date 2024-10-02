@@ -1,0 +1,20 @@
+form{
+    width: 500px;
+    margin: 30px auto;
+    padding:20px 20px;
+    background-color: rgb(195, 184, 103);
+}
+
+form input{
+    text-align: center;
+    margin: 10px 20px;
+    outline: none;
+}
+
+form h1{
+    text-align: center;
+}
+
+.inp_box{
+   margin: 20px 220px;
+}
